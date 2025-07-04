@@ -1,0 +1,12 @@
+{
+  "name": "image-slider-scale",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "图片对比功能，支持缩放及拖拽移动，可用于AI生成图像前后对比"
+}
