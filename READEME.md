@@ -7,5 +7,5 @@
 ```
 import imageSliderScale from 'image-slider-scale';
 
-imageSliderScale('center', 'original.jpg', 'generate.jpg')
+imageSliderScale('domId', 'original.jpg', 'generate.jpg')
 ``` 
