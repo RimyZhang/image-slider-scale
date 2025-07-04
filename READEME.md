@@ -2,7 +2,7 @@
 图片对比功能，支持缩放及拖拽移动，可用于AI生成图像前后对比
 
 ## DEMO
-![](demo.jpg)
+![](https://hshine.oss-cn-shanghai.aliyuncs.com/npm/demo.jpg)
 
 ## Install
 > npm install image-slider-scale
